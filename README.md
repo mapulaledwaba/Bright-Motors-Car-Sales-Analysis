@@ -39,6 +39,7 @@ What recommendations can increase dealership profitability and efficiency?
 Presenation
 
 #Key findings
+
 1.Budget cars dominate — accounting for the majority of revenue, confirming affordability as the key customer priority
 
 2.Nissan and Chevrolet are the top performing makes by total revenue
