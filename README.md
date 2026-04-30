@@ -23,27 +23,31 @@ What recommendations can increase dealership profitability and efficiency?
 #Tools used
 
 1. Miro
+
    Project architecture and gantt chart
 
 3. Databricks
+
    SQL Codes for data cleaning
 
-4. Data Studio
+5. Data Studio
+
    Visualization(dashboard)   
 
-5. Canva
-  Presenation
+7. Canva
+
+Presenation
 
 #Key findings
-Budget cars dominate — accounting for the majority of revenue, confirming affordability as the key customer priority
+1.Budget cars dominate — accounting for the majority of revenue, confirming affordability as the key customer priority
 
-Nissan and Chevrolet are the top performing makes by total revenue
+2.Nissan and Chevrolet are the top performing makes by total revenue
 
-The F-150 is the single highest revenue generating model
+3.The F-150 is the single highest revenue generating model
 
-Low mileage vehicles command significantly higher selling prices
+4.Low mileage vehicles command significantly higher selling prices
 
-Regional performance varies widely — top states present clear opportunities for dealership expansion
+5.Regional performance varies widely — top states present clear opportunities for dealership expansion
 
 #Recommendations
 
