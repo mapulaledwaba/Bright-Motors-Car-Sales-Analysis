@@ -1,3 +1,5 @@
+Dashboard: https://datastudio.google.com/reporting/07372347-3535-4c61-b6d8-0a047786da45 
+
 #Project overview
 
 Bright Motors has recently appointed a new Head of Sales whose mission is to expand the dealership network, improve sales performance, and optimise inventory. 
